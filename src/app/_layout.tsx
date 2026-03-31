@@ -1,4 +1,3 @@
-import 'react-native-url-polyfill/auto'
 import { Stack } from 'expo-router'
 import seedrandom from 'seedrandom'
 
